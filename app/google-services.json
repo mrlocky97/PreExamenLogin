@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786109031073",
+    "firebase_url": "https://preexamen-ab735.firebaseio.com",
+    "project_id": "preexamen-ab735",
+    "storage_bucket": "preexamen-ab735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786109031073:android:f72df67c80cbc46b",
+        "android_client_info": {
+          "package_name": "com.example.juansebastianquinayasguarin.preexamenlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786109031073-s2hascpv953bupdmeker8uhih31q2qug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juansebastianquinayasguarin.preexamenlogin",
+            "certificate_hash": "166322943fc42f094e66a575aa7c5ad232338fae"
+          }
+        },
+        {
+          "client_id": "786109031073-i5uea1bk9t3vkn6rj88f7mkc280gqamg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuQsqMDSkKxrDrLyVYGfKfAb8OZ8KPeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786109031073-i5uea1bk9t3vkn6rj88f7mkc280gqamg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
